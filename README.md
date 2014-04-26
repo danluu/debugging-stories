@@ -19,3 +19,9 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Debugging Behind the Iron Curtain](http://jakepoz.com/soviet_debugging.html)
 
 [Crash Bandicoot Memory Card Corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
+
+## TODOs:
+
+Improve formatting.
+
+Write up some interesting bugs: 40 hour hang, hardware bug caused by copying behavior of Intel engineering sample found on ebay, etc.
