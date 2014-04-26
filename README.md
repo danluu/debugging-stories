@@ -4,6 +4,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
+[Login only works when sitting down](http://www.cs.bell-labs.com/cm/cs/pearls/sec0510.html)
+
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
 [Custom Rust OS crashes](http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/).
