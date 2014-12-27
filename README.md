@@ -28,6 +28,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Veeerrry Slow Logons](http://blogs.technet.com/b/markrussinovich/archive/2012/07/02/3506849.aspx)
 
+[Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
+
 
 ## TODOs:
 
