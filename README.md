@@ -12,7 +12,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
-[FIRST robotics dashboard segfaults due to Java GC optimization](https://lukeshu.com/blog/java-segfault.html)
+[FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
 
 [Grep segfauts](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
 
@@ -21,6 +21,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Login only works when sitting down](http://www.cs.bell-labs.com/cm/cs/pearls/sec0510.html)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
+
+[Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
 [Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
