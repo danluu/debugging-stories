@@ -18,6 +18,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
 
+[JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
+
 [Login only works when sitting down](http://www.cs.bell-labs.com/cm/cs/pearls/sec0510.html)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
