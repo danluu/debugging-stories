@@ -44,10 +44,10 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 ## Contributors
 
-Dan Luu
-Jyrki Vesterinen
-Howard Mao
-Matteo Castellini
+* Dan Luu
+* Jyrki Vesterinen
+* Howard Mao
+* Matteo Castellini
 
 ## TODOs:
 
