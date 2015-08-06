@@ -42,6 +42,11 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+## Contributors
+
+Dan Luu
+Jyrki Vesterinen
+Howard Mao
 
 ## TODOs:
 
