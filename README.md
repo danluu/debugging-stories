@@ -2,7 +2,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
-[Bug that hides from breakpoints](http://drewdevault.com/2014/02/02/The-worst-bugs.html)
+[Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
 
 [Crash Bandicoot Memory Card Corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
@@ -21,8 +21,6 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
 
 [Learning how to debug](http://danluu.com/teach-debugging/)
-
-[Login only works when sitting down](http://www.cs.bell-labs.com/cm/cs/pearls/sec0510.html)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
@@ -47,6 +45,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 Dan Luu
 Jyrki Vesterinen
 Howard Mao
+Matteo Castellini
 
 ## TODOs:
 
