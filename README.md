@@ -22,6 +22,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Learning how to debug](http://danluu.com/teach-debugging/)
 
+[Matrix transformation is 10x faster in a test harness than in the game](https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/)
+
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
