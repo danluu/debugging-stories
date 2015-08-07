@@ -50,6 +50,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Jyrki Vesterinen
 * Howard Mao
 * Matteo Castellini
+* Nathan Isom
 
 ## TODOs:
 
