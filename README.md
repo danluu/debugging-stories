@@ -8,7 +8,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Custom Rust OS crashes](http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/)
 
-[Debugging Behind the Iron Curtain](http://jakepoz.com/soviet_debugging.html)
+[Debugging Behind the Iron Curtain](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
