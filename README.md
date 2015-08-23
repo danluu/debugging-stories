@@ -47,8 +47,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 ## Contributors
 
 * Dan Luu
-* Jyrki Vesterinen
 * Howard Mao
+* Jyrki Vesterinen
 * Matteo Castellini
 * Nathan Isom
 
