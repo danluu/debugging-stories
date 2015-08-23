@@ -49,6 +49,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Dan Luu
 * Dimitry (unknownexception)
 * Howard Mao
+* Jouke Waleson
 * Jyrki Vesterinen
 * Matteo Castellini
 * Nathan Isom
