@@ -6,6 +6,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Crash Bandicoot Memory Card Corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
+[Crashes only on Wednesdays](http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
+
 [Custom Rust OS crashes](http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/)
 
 [Debugging Behind the Iron Curtain](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
