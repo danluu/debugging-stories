@@ -16,7 +16,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
 
-[Grep segfauts](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
+[Grep segfaults](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
 
