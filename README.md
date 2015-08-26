@@ -50,6 +50,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+[When Solid State Drives are not that solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/)
+
 ## Contributors
 
 * Dan Luu
@@ -63,6 +65,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * michaelx386
 * Nathan Isom
 * Ramon Fried
+* Florent Viel
 
 ## TODOs:
 
