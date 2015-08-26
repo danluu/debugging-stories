@@ -58,6 +58,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Jani Patokallio
 * Jouke Waleson
 * Jyrki Vesterinen
+* Louis Vela
 * Matteo Castellini
 * michaelx386
 * Nathan Isom
