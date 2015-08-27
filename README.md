@@ -64,6 +64,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * michaelx386
 * Nathan Isom
 * Ramon Fried
+* Sean Cassidy
 
 ## TODOs:
 
