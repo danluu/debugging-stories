@@ -1,5 +1,7 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
+[An experience of fixing a memory-corruption bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)  
+
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
 [Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
@@ -63,6 +65,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Louis Vela
 * Matteo Castellini
 * michaelx386
+* Nan Xiao
 * Nathan Isom
 * Ramon Fried
 * Florent Viel
