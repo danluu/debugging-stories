@@ -58,6 +58,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 * Dan Luu
 * Dimitry (unknownexception)
+* Florent Viel
 * Howard Mao
 * Jani Patokallio
 * Jouke Waleson
@@ -68,7 +69,6 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Ramon Fried
-* Florent Viel
 
 ## TODOs:
 
