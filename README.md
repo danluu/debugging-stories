@@ -54,6 +54,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [When Solid State Drives are not that solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/)
 
+[Rebuilding the 747 at 35,000 Feet](http://blog.freecodecamp.com/2015/08/rebuilding-the-747-at-35000-feet.html)
+
 ## Contributors
 
 * Dan Luu
@@ -69,6 +71,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nathan Isom
 * Ramon Fried
 * Florent Viel
+* Kirtan Gajjar
 
 ## TODOs:
 
