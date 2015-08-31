@@ -16,6 +16,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
+[Discovering a harware bug on the Playstation while debugging a crash in *Crash Bandicoot*](http://www.quora.com/Whats-the-hardest-bug-youve-debugged/answer/Dave-Baggett?share=1)
+
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
 
 [Grep segfaults](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
