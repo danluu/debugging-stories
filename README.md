@@ -1,6 +1,6 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
-[An experience of fixing a memory-corruption bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)  
+[An experience of fixing a memory-corruption bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
@@ -48,6 +48,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Walmart Node.js Memory Leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
+[We can't send mail more than 500 miles](http://web.mit.edu/jemorris/humor/500-miles)
+
 [Why you should avoid using SIGALRM for timers] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
@@ -63,6 +65,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Jani Patokallio
 * Jouke Waleson
 * Jyrki Vesterinen
+* Kubilay Kahveci
 * Louis Vela
 * Matteo Castellini
 * michaelx386
