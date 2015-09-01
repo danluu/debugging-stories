@@ -54,6 +54,10 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [When Solid State Drives are not that solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/)
 
+[The "Buggy" C Compiler](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
+
+[I am a fan of Programming by Contract and gcc's -Wcast-qual](http://kdc-blog.blogspot.com/2008/05/i-am-fan-of-programming-by-contract-and.html)
+
 ## Contributors
 
 * Dan Luu
@@ -69,6 +73,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Ramon Fried
+* Kevin D. Clark
 
 ## TODOs:
 
