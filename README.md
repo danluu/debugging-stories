@@ -44,6 +44,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Tracking down tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
+[Use DTrace to diagnose gdb issues](http://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues/)
+
 [Veeerrry Slow Logons](http://blogs.technet.com/b/markrussinovich/archive/2012/07/02/3506849.aspx)
 
 [Walmart Node.js Memory Leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
