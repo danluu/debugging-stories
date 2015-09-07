@@ -30,13 +30,13 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
+[OS crashes on boot if machine was used recently](http://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
+
 [Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
 
 [Signal handling on 286 emulator for Xenix](https://news.ycombinator.com/item?id=7684827)
-
-[OS crashes on boot if machine was used recently](http://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
 [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html)
 
