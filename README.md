@@ -24,6 +24,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
 
+[Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56). From Jon Bentley's _Programming Pearls_, section 5.10
+
 [Matrix transformation is 10x faster in a test harness than in the game](https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
