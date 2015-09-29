@@ -54,6 +54,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [When Solid State Drives are not that solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/)
 
+[Magic or 'more magic'](http://www.catb.org/jargon/html/magic-story.html)
+
 ## Contributors
 
 * Dan Luu
