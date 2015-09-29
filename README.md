@@ -15,6 +15,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Debugging Behind the Iron Curtain](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
 [Debugging file corruption on iOS](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
+
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
@@ -22,6 +23,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Grep segfaults](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
+
+[hardware debugging is hard](http://eli.thegreenplace.net/2003/10/30/hardware-debugging-is-hard)
 
 [How to find a bug...](https://web.archive.org/web/20060612203753/http://vger.kernel.org/~davem/cgi-bin/blog.cgi/index.html) (Wayback Machine copy; scroll down for post)
 
