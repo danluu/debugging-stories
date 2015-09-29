@@ -58,6 +58,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Magic or 'more magic'](http://www.catb.org/jargon/html/magic-story.html)
 
+[Cosmic ray ? ](https://blogs.oracle.com/ksplice/entry/attack_of_the_cosmic_rays1)
+
 ## Contributors
 
 * Dan Luu
