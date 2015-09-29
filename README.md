@@ -60,9 +60,15 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [When Solid State Drives are not that solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/)
 
+<<<<<<< HEAD
 [Magic or 'more magic'](http://www.catb.org/jargon/html/magic-story.html)
 
 [Cosmic ray ? ](https://blogs.oracle.com/ksplice/entry/attack_of_the_cosmic_rays1)
+=======
+[Sometimes a bug is hit only after code was executed 100 trillion times -- Spotify's underflow bug](https://labs.spotify.com/2015/08/27/underflow-bug/)
+
+[Rebuilding the 747 at 35,000 Feet](http://blog.freecodecamp.com/2015/08/rebuilding-the-747-at-35000-feet.html)
+>>>>>>> 2fd879e1b9f8555a8f4cd0cb429117d019271b22
 
 ## Contributors
 
@@ -79,7 +85,12 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Ramon Fried
+<<<<<<< HEAD
 * Sean Cassidy
+=======
+* Florent Viel
+* Kirtan Gajjar
+>>>>>>> 2fd879e1b9f8555a8f4cd0cb429117d019271b22
 
 ## TODOs:
 
