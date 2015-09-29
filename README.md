@@ -60,6 +60,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [The little ssh that (sometimes) couldn't](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
+[The mystery of the fifteen-millisecond breakpoint instruction](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
+
 [Tracking down tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
 [Use DTrace to diagnose gdb issues](http://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues/)
