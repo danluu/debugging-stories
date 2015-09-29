@@ -60,6 +60,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Walmart Node.js Memory Leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
+[Why Did CHICKEN Cross the... oh nevermind](https://web.archive.org/web/20080627131350/http://www.nnl-labs.com/cblog/index.php) (Wayback Machine copy; scroll down to find the actual post)
+
 [Why you should avoid using SIGALRM for timers] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
