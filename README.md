@@ -32,6 +32,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
+[Sherlock Holmes Debugging](https://www.seancassidy.me/sherlock-holmes-debugging.html)
+
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
 
 [Signal handling on 286 emulator for Xenix](https://news.ycombinator.com/item?id=7684827)
@@ -75,6 +77,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Ramon Fried
+* Sean Cassidy
 
 ## TODOs:
 
