@@ -36,6 +36,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [OS crashes on boot if machine was used recently](http://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
+[Perfect multicast storm](http://blog.outerthoughts.com/2004/10/perfect-multicast-storm/)
+
 [Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
 [Sherlock Holmes Debugging](https://www.seancassidy.me/sherlock-holmes-debugging.html)
