@@ -40,6 +40,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html)
 
+[The greatest bug I never fixed](http://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
+
 [The little ssh that (sometimes) couldn't](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
 [Tracking down tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
