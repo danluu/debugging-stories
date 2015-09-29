@@ -16,6 +16,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Debugging file corruption on iOS](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
 
+[Debugging Insights](http://debuggingrules.com/?page_id=46) (collection of stories on separate pages, submitted to Dave Agans, the author of "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems")
+
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
