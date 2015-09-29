@@ -22,6 +22,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
 
+[How to find a bug...](https://web.archive.org/web/20060612203753/http://vger.kernel.org/~davem/cgi-bin/blog.cgi/index.html) (Wayback Machine copy; scroll down for post)
+
 [I don't always use logging, but when I do I make sure it's to /dev/null](http://www.nikola-breznjak.com/blog/miscellaneou/i-dont-always-use-logging-but-when-i-do-i-make-sure-its-to-devnull/)
 
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
