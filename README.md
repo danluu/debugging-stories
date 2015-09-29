@@ -14,6 +14,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Debugging Behind the Iron Curtain](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
+[Debugging file corruption on iOS](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
