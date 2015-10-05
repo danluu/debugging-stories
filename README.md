@@ -87,6 +87,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Florent Viel
 * Howard Mao
 * Jani Patokallio
+* Jessie Weinstein
 * José Manuel Díez
 * Jouke Waleson
 * Jyrki Vesterinen
