@@ -92,23 +92,27 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 ## Contributors
 
+* André Luiz
+* bussiere
 * Dan Luu
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
 * Jani Patokallio
+* José Manuel Díez
 * Jouke Waleson
 * Jyrki Vesterinen
+* Kevin D. Clark
+* Kirtan Gajjar
 * Louis Vela
 * Matteo Castellini
 * michaelx386
 * Nan Xiao
 * Nathan Isom
+* Nikola Brežnjak
+* Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
-* Florent Viel
-* Kirtan Gajjar
-* Kevin D. Clark
 
 ## TODOs:
 
