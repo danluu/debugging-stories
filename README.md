@@ -6,6 +6,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
 
+[C64 Variable Screen Position crash](http://www.linusakesson.net/scene/safevsp/index.php)
+
 [Crash Bandicoot memory card corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
 [Crashes only on Wednesdays](http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
