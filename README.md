@@ -54,6 +54,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Multicast to 237.0.0.1 acts craters performance](http://blog.outerthoughts.com/2004/10/perfect-multicast-storm/)
 
+[NASA Mars Pithfinder Priority Inversion](http://research.microsoft.com/en-us/um/people/mbj/Mars_Pathfinder/Authoritative_Account.html)
+
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
 [Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
