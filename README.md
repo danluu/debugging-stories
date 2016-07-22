@@ -22,6 +22,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Email only goes 500 miles](http://www.ibiblio.org/harris/500milemail.html)
 
+[Impossible random number collision happened in practice](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d)
+
 [Incorrect sign masking operation](https://labs.spotify.com/2015/08/27/underflow-bug/)
 
 [iOS file corruption](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
