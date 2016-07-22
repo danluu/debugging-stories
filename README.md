@@ -46,7 +46,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Matrix transformation is 10x faster in a test harness than in the game](https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/)
 
-[Memory-corruption / threading bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)  
+[Memory-corruption / threading bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)
 
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
@@ -74,13 +74,13 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [SSH sometimes fails from cron](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
+[Stack corruptionw when using select()](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
-
-[Who the hell writes "2" into my stack?!](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
@@ -89,6 +89,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * André Luiz
 * bussiere
 * Dan Luu
+* Dan Nguyen
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
