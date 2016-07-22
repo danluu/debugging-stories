@@ -80,6 +80,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
 
+[Who the hell writes "2" into my stack?!](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
 ## Contributors
@@ -95,6 +97,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * José Manuel Díez
 * Jouke Waleson
 * Jyrki Vesterinen
+* Kartik Agaram
 * Kevin D. Clark
 * Kirtan Gajjar
 * Louis Vela
