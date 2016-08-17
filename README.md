@@ -89,6 +89,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+[Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
+
 ## Contributors
 
 * André Luiz
@@ -115,6 +117,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
+* James Porter
 
 ## TODOs:
 
