@@ -65,9 +65,13 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [PDP-11 crashes only when live cattle are being shipped from northern Ukraine and western Russia](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
+[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-TMPDIR/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
+
 [Polish S doesn't appear on medium](https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
 [Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
+
+[Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
 [SIGALRM timer hangs] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
@@ -87,11 +91,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
 
-[Why can't Perl read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-TMPDIR/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
-
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
-
-[Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
 ## Contributors
 
