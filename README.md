@@ -87,12 +87,15 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
 
+[Why can't Perl read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-TMPDIR/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
+
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
 [Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
 ## Contributors
 
+* Arthur Axel fREW Schmidt
 * André Luiz
 * bussiere
 * Dan Luu
@@ -110,6 +113,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Kirtan Gajjar
 * Louis Vela
 * Matteo Castellini
+* Mark Jason Dominus
 * michaelx386
 * Nan Xiao
 * Nathan Isom
