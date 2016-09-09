@@ -73,6 +73,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
+[Register allocation algorithm in JIT uses extra register](http://bitfunnel.org/debugging-nativejit/)
+
 [SIGALRM timer hangs] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
