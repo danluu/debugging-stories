@@ -8,6 +8,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [C64 Variable Screen Position crash](http://www.linusakesson.net/scene/safevsp/index.php)
 
+[Chrome development branch crashes with x87 FPU stack overflow](https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/)
+
 [Crash Bandicoot memory card corruption](http://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
 [Crashes only on Wednesdays](http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
@@ -97,6 +99,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 ## Contributors
 
+* Alexandros Tasos
 * Arthur Axel fREW Schmidt
 * André Luiz
 * bussiere
