@@ -42,7 +42,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
 
-[Webapp performance problems on Java 8](http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/)
+[Java 8 webapp performance problems](http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/)
 
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
 
@@ -104,6 +104,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Alexandros Tasos
 * Arthur Axel fREW Schmidt
 * André Luiz
+* Bill Smith
 * bussiere
 * Dan Luu
 * Dan Nguyen
