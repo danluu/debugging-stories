@@ -6,6 +6,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
 
+[Car allergic to vanilla ice cream](http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html)
+
 [C64 Variable Screen Position crash](http://www.linusakesson.net/scene/safevsp/index.php)
 
 [Chrome development branch crashes with x87 FPU stack overflow](https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/)
