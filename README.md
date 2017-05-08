@@ -79,7 +79,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Register allocation algorithm in JIT uses extra register](http://bitfunnel.org/debugging-nativejit/)
 
-[SIGALRM timer hangs] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
+[SIGALRM timer hangs](https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
 
