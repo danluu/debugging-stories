@@ -2,6 +2,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
+[Amazon S3 downloads hanging only from home Internet connection](https://www.snellman.net/blog/archive/2017-07-20-s3-mystery/)
+
 [Breakpoint takes 15ms](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
 
 [Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
