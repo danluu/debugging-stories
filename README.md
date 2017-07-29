@@ -54,6 +54,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Memory-corruption / threading bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)
 
+[Mouse won't move while processes are dying](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
+
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
 [Multicast to 237.0.0.1 acts craters performance](http://blog.outerthoughts.com/2004/10/perfect-multicast-storm/)
@@ -105,6 +107,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Arthur Axel fREW Schmidt
 * André Luiz
 * Bill Smith
+* Bruce Dawson
 * bussiere
 * Dan Luu
 * Dan Nguyen
