@@ -99,6 +99,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+[HTTP/HTTPS not working inside your VM? Wait for it.](https://rachelbythebay.com/w/2016/03/22/6nat/)
+
 ## Contributors
 
 * Alexandros Tasos
