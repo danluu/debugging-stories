@@ -93,6 +93,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Register allocation algorithm in JIT uses extra register](http://bitfunnel.org/debugging-nativejit/)
 
+[Script crashes before 10 a.m](https://darekkay.com/blog/script-crashes-before-10/)
+
 [SIGALRM timer hangs](https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
@@ -107,9 +109,13 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
+[The case of the 500-mile email](http://www.ibiblio.org/harris/500milemail.html)
+
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
+
+[Unit tests fail when run in Australia](https://github.com/angular/angular.js/issues/5017)
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
@@ -128,6 +134,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * crazymerlyn
 * Dan Luu
 * Dan Nguyen
+* Darek Kay
 * Dima Kogan
 * Dimitry (unknownexception)
 * Florent Viel
