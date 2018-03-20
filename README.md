@@ -4,7 +4,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Breakpoint takes 15ms](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
 
-[Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
+[Bug that hides from breakpoints](http://sircmpwn.github.io/2014/02/02/The-worst-bugs.html)
 
 [C64 Variable Screen Position crash](http://www.linusakesson.net/scene/safevsp/index.php)
 
