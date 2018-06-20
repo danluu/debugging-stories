@@ -1,5 +1,7 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
+[First Instance of Actual Computer Bug Being Found](http://www.computerhistory.org/tdih/september/9/)
+
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
 [Breakpoint takes 15ms](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
