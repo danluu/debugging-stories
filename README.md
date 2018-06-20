@@ -1,5 +1,7 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
+[An unprecedented look at STUXNET, the world's first digital weapon](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/)
+
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
 [Breakpoint takes 15ms](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
