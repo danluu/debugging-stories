@@ -18,6 +18,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Debian package data corruption, but only on sparc64](https://web.archive.org/web/20060612203753/http://vger.kernel.org/~davem/cgi-bin/blog.cgi/index.html)
 
+[Debugging an evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
+
 [Debugging Insights](http://debuggingrules.com/?page_id=46) (collection of stories on separate pages, submitted to Dave Agans, the author of "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems")
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
@@ -106,6 +108,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * André Luiz
 * Bill Smith
 * bussiere
+* crazymerlyn
 * Dan Luu
 * Dan Nguyen
 * Dimitry (unknownexception)
