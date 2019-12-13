@@ -1,6 +1,7 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
-[First Instance of Actual Computer Bug Being Found](http://www.computerhistory.org/tdih/september/9/)
+
+[An unprecedented look at STUXNET, the world's first digital weapon](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/)
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
@@ -33,6 +34,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [Incorrect sign masking operation](https://labs.spotify.com/2015/08/27/underflow-bug/)
 
 [iOS file corruption](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
+
+[First Instance of Actual Computer Bug Being Found](http://www.computerhistory.org/tdih/september/9/)
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
 
