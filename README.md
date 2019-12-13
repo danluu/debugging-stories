@@ -32,6 +32,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
 
+[Fixing A Bug In An 18 Year Old Shockwave Game](https://mattbruv.github.io/ccsr-bugfix/)
+
 [FriendNet / WoW message corruption](http://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
 
 [FPGA / CPU timing bug](http://eli.thegreenplace.net/2003/10/30/hardware-debugging-is-hard)
