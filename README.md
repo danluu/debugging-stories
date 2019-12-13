@@ -78,7 +78,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [PDP-11 crashes only when live cattle are being shipped from northern Ukraine and western Russia](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
-[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-TMPDIR/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
+[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-tmpdir/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
 
 [Polish S doesn't appear on medium](https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
