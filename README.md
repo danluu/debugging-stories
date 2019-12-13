@@ -110,6 +110,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [HTTP/HTTPS not working inside your VM? Wait for it.](https://rachelbythebay.com/w/2016/03/22/6nat/)
 
+[The big handle gamble](https://x64dbg.com/blog/2017/11/04/the-big-handle-gamble.html)
+
 ## Contributors
 
 * Alexandros Tasos
