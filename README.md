@@ -1,12 +1,13 @@
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
+
 [An unprecedented look at STUXNET, the world's first digital weapon](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/)
 
 [Atop segfaults](http://rachelbythebay.com/w/2014/03/02/sync/)
 
 [Breakpoint takes 15ms](http://blog.jwhitham.org/2015/04/the-mystery-of-fifteen-millisecond.html)
 
-[Bug that hides from breakpoints](http://www.drewdevault.com/2014/02/02/The-worst-bugs.html)
+[Bug that hides from breakpoints](http://drewdevault.com/2014/02/02/The-worst-bugs.html)
 
 [C64 Variable Screen Position crash](http://www.linusakesson.net/scene/safevsp/index.php)
 
@@ -20,6 +21,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Debian package data corruption, but only on sparc64](https://web.archive.org/web/20060612203753/http://vger.kernel.org/~davem/cgi-bin/blog.cgi/index.html)
 
+[Debugging an evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
+
 [Debugging Insights](http://debuggingrules.com/?page_id=46) (collection of stories on separate pages, submitted to Dave Agans, the author of "Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems")
 
 [Digital divider with wrong output](http://danluu.com/teach-debugging/)
@@ -32,7 +35,11 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [iOS file corruption](https://code.facebook.com/posts/313033472212144/debugging-file-corruption-on-ios/)
 
+[First Instance of Actual Computer Bug Being Found](http://www.computerhistory.org/tdih/september/9/)
+
 [FIRST robotics dashboard segfaults due to finalizer](https://lukeshu.com/blog/java-segfault.html)
+
+[Fixing A Bug In An 18 Year Old Shockwave Game](https://mattbruv.github.io/ccsr-bugfix/)
 
 [FriendNet / WoW message corruption](http://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
 
@@ -48,6 +55,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
 
+[Linux kernel CPU contention](http://notes.secretsauce.net/notes/2015/09/05_a-kernel-debugging-story.html)
+
 [Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56). From Jon Bentley's _Programming Pearls_, section 5.10
 
 [Mandrill stops sending messages](https://www.seancassidy.me/sherlock-holmes-debugging.html)
@@ -56,32 +65,35 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Memory-corruption / threading bug](http://nanxiao.me/en/an-experience-of-fixing-a-memory-corruption-bug/)
 
+[Mouse won't move while processes are dying](https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/)
+
 [MS Money crashes](http://blogs.msdn.com/b/oldnewthing/archive/2012/11/13/10367904.aspx). Includes reverse engineered binary patch fix!
 
 [Multicast to 237.0.0.1 acts craters performance](http://blog.outerthoughts.com/2004/10/perfect-multicast-storm/)
 
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
+[NFS bug hunting on GitLab](https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/)
+
 [Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
 [OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619)
-
 
 [OS crashes on boot if machine was used recently](http://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
 [PDP-11 crashes only when live cattle are being shipped from northern Ukraine and western Russia](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
-[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-TMPDIR/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
+[Perl can't read from TMPDIR?](https://blog.afoolishmanifesto.com/posts/investigation-into-why-perl-cant-read-from-tmpdir/) [(separate analysis of the same issue here)](http://blog.plover.com/tech/tmpdir.html)
 
 [Polish S doesn't appear on medium](https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
-[Python hashes files differently on different days](http://dpb.bitbucket.org/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
+[Python hashes files differently on different days](https://dpb.bitbucket.io/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
 [Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
 [Register allocation algorithm in JIT uses extra register](http://bitfunnel.org/debugging-nativejit/)
 
-[SIGALRM timer hangs] (https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
+[SIGALRM timer hangs](https://nativeguru.wordpress.com/2015/02/19/why-you-should-avoid-using-sigalrm-for-timer)
 
 [Signal fails only when returning from page fault handler](https://news.ycombinator.com/item?id=7684824)
 
@@ -91,7 +103,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [SSH sometimes fails from cron](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
-[Stack corruptionw when using select()](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+[Stack corruption when using select()](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
@@ -101,15 +113,22 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
+[HTTP/HTTPS not working inside your VM? Wait for it.](https://rachelbythebay.com/w/2016/03/22/6nat/)
+
+[The big handle gamble](https://x64dbg.com/blog/2017/11/04/the-big-handle-gamble.html)
+
 ## Contributors
 
 * Alexandros Tasos
 * Arthur Axel fREW Schmidt
 * André Luiz
 * Bill Smith
+* Bruce Dawson
 * bussiere
+* crazymerlyn
 * Dan Luu
 * Dan Nguyen
+* Dima Kogan
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
@@ -128,6 +147,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Nikola Brežnjak
+* Pietro Menna
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
