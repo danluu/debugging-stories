@@ -89,7 +89,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [SSH sometimes fails from cron](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
-[Stack corruptionw when using select()](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+[Stack corruption when using select()](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
