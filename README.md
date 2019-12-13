@@ -46,6 +46,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [JVM has 6-7 second GC pauses](http://www.evanjones.ca/jvm-mmap-pause-finding.html)
 
+[Linux kernel CPU contention](http://notes.secretsauce.net/notes/2015/09/05_a-kernel-debugging-story.html)
+
 [Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56). From Jon Bentley's _Programming Pearls_, section 5.10
 
 [Mandrill stops sending messages](https://www.seancassidy.me/sherlock-holmes-debugging.html)
@@ -108,6 +110,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * bussiere
 * Dan Luu
 * Dan Nguyen
+* Dima Kogan
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
