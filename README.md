@@ -62,6 +62,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Network link instability due to DB caching policies](https://code.facebook.com/posts/1499322996995183/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/)
 
+[NFS bug hunting on GitLab](https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/)
+
 [Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
 [OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619)
@@ -129,6 +131,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nan Xiao
 * Nathan Isom
 * Nikola Brežnjak
+* Pietro Menna
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
