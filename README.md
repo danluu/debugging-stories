@@ -72,7 +72,6 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619)
 
-
 [OS crashes on boot if machine was used recently](http://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
 [PDP-11 crashes only when live cattle are being shipped from northern Ukraine and western Russia](http://www.jakepoz.com/debugging-behind-the-iron-curtain/)
@@ -81,7 +80,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Polish S doesn't appear on medium](https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
-[Python hashes files differently on different days](http://dpb.bitbucket.io/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
+[Python hashes files differently on different days](https://dpb.bitbucket.io/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
 [Python/Flask/S3 absurd memory usage](http://jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
 
