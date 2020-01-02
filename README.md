@@ -109,6 +109,9 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Switch crashes machine despite not being connected](http://www.catb.org/jargon/html/magic-story.html)
 
+[The Debug heap that created bugs
+](http://lectem.github.io/windows/heap/appverifier/detours/2020/01/02/The-debug-heap-that-created-bugs.html)
+
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
