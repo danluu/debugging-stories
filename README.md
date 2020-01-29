@@ -57,9 +57,9 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Linux kernel CPU contention](http://notes.secretsauce.net/notes/2015/09/05_a-kernel-debugging-story.html)
 
-[long latencies on uploads to S3](https://m.signalvnoise.com/aws-s3-youre-out-of-order/)
-
 [Login only works when sitting down (and other stories)](https://books.google.ca/books?id=kse_7qbWbjsC&lpg=PP1&pg=PA56). From Jon Bentley's _Programming Pearls_, section 5.10
+
+[Long latencies on uploads to S3](https://m.signalvnoise.com/aws-s3-youre-out-of-order/)
 
 [Mandrill stops sending messages](https://www.seancassidy.me/sherlock-holmes-debugging.html)
 
