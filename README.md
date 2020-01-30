@@ -144,6 +144,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
+* Jakub Kądziołka
 * Jani Patokallio
 * Jessie Weinstein
 * José Manuel Díez
