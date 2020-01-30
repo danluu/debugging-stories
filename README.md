@@ -13,8 +13,6 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Chrome development branch crashes with x87 FPU stack overflow](https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/)
 
-[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/)
-
 [Crash Bandicoot memory card corruption](https://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
 
 [Crashes only on Wednesdays](https://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
@@ -125,6 +123,10 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [HTTP/HTTPS not working inside your VM? Wait for it.](https://rachelbythebay.com/w/2016/03/22/6nat/)
 
 [The big handle gamble](https://x64dbg.com/blog/2017/11/04/the-big-handle-gamble.html)
+
+## Fictional stories
+
+[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/)
 
 ## Contributors
 
