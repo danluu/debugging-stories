@@ -1,5 +1,9 @@
+
+# Debugging stories
+
 Debugging stories are fun! This is a collection of links to various debugging stories.
 
+## Non Fiction stories
 
 [An unprecedented look at STUXNET, the world's first digital weapon](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/)
 
@@ -79,7 +83,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
 
-[OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619)
+[OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619))
 
 [OS crashes on boot if machine was used recently](https://blog.valerieaurora.org/2013/12/17/heres-my-favorite-operating-systems-war-story-whats-yours/)
 
@@ -171,6 +175,6 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 ## TODOs:
 
-Improve formatting.
+* Improve formatting.
 
-Write up some interesting bugs: 40 hour hang, hardware bug caused by copying behavior of Intel engineering sample found on ebay, etc.
+* Write up some interesting bugs: 40 hour hang, hardware bug caused by copying behavior of Intel engineering sample found on ebay, etc.
