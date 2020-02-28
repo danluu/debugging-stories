@@ -103,7 +103,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Signal handling on 286 emulator for Xenix](https://news.ycombinator.com/item?id=7684827)
 
-[Slow logons](https://blogs.technet.microsoft.com/markrussinovich/2012/07/01/the-case-of-the-veeerrry-slow-logons/)
+[The Case of Veeerrry Slow Logons](https://docs.microsoft.com/en-us/archive/blogs/markrussinovich/the-case-of-the-veeerrry-slow-logons)
 
 [SSH sometimes fails from cron](http://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
