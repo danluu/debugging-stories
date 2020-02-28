@@ -47,6 +47,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Gdb set follow-fork-mode child doesn't work](https://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues/)
 
+[git - pack corruption post-mortem](http://git.661346.n2.nabble.com/pack-corruption-post-mortem-td7597765.html)
+
 [Grep segfaults](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
 
 [GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
@@ -134,6 +136,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Arthur Axel fREW Schmidt
 * André Luiz
 * Bill Smith
+* Brad Parker
 * Bruce Dawson
 * bussiere
 * crazymerlyn
