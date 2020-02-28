@@ -124,6 +124,10 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [The big handle gamble](https://x64dbg.com/blog/2017/11/04/the-big-handle-gamble.html)
 
+## Fictional stories
+
+[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/)
+
 ## Contributors
 
 * Alexandros Tasos
@@ -140,6 +144,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Dimitry (unknownexception)
 * Florent Viel
 * Howard Mao
+* Jakub Kądziołka
 * Jani Patokallio
 * Jessie Weinstein
 * José Manuel Díez
