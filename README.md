@@ -120,6 +120,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
+[Tracking down a CPU bug in Solaris across multiple OS layers](https://gist.github.com/vladak/d7edf765fe2763b698b06488230d5886)
+
 [uint32_t gets truncated to 16 bits](http://kdc-blog.blogspot.com/2008/03/one-day-one-of-my-co-workers-stopped-me.html)
 
 [Unit tests fail when run in Australia](https://github.com/angular/angular.js/issues/5017)
@@ -171,6 +173,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
+* Vladimír Kotal
 * James Porter
 
 ## TODOs:
