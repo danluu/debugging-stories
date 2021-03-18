@@ -33,6 +33,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Email only goes 500 miles](http://www.ibiblio.org/harris/500milemail.html)
 
+[How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+
 [Impossible random number collision happened in practice](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d)
 
 [Incorrect sign masking operation](https://labs.spotify.com/2015/08/27/underflow-bug/)
