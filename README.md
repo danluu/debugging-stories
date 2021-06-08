@@ -57,7 +57,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Grep segfaults](http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/)
 
-[GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/2014/02/04/an-obscure-bug-story/)
+[GWT test passes during normal runs but fails during coverage runs](http://ismail.badawi.io/blog/an-obscure-bug-story/)
 
 [Java 8 webapp performance problems](https://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/)
 
