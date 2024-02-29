@@ -95,6 +95,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Polish S doesn't appear on medium](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
+[PS2 SDK doesn't zero the .bss segment](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html) 
+
 [Python hashes files differently on different days](https://dpb.bitbucket.io/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
 [Python/Flask/S3 absurd memory usage](https://www.jamesporter.me/2015/12/09/mysterious-memory-consumption.html)
@@ -175,6 +177,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
+* Ty Lamontagne
 * Vladimír Kotal
 * James Porter
 
