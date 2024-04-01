@@ -122,6 +122,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 [The Debug heap that created bugs
 ](http://lectem.github.io/windows/heap/appverifier/detours/2020/01/02/The-debug-heap-that-created-bugs.html)
 
+[The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
+
 [Tmux/vim strangeness](http://www.daniellesucher.com/2014/04/24/my-new-favorite-vim-tmux-bug/)
 
 [Tracking down a CPU bug in Solaris across multiple OS layers](https://gist.github.com/vladak/d7edf765fe2763b698b06488230d5886)
@@ -174,6 +176,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nathan Isom
 * Nikola Brežnjak
 * Pietro Menna
+* Predrag Gruevski
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
