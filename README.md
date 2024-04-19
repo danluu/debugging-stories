@@ -83,7 +83,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [NFS bug hunting on GitLab](https://about.gitlab.com/blog/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/)
 
-[Node.js memory leak](https://www.joyent.com/blog/walmart-node-js-memory-leak)
+[Node.js memory leak](https://www.tritondatacenter.com/blog/walmart-node-js-memory-leak)
 
 [OpenOffice + Ubuntu|2009-04-28](https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161/comments/28) - "My wife has complained that OpenOffice will never print on Tuesdays" (bug is actually with the [file utility](https://bugs.launchpad.net/ubuntu/+source/file/+bug/248619))
 
