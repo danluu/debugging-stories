@@ -17,7 +17,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Chrome development branch crashes with x87 FPU stack overflow](https://randomascii.wordpress.com/2016/09/16/everything-old-is-new-again-and-a-compiler-bug/)
 
-[Crash Bandicoot memory card corruption](https://www.gamasutra.com/blogs/DaveBaggett/20131031/203788/My_Hardest_Bug_Ever.php)
+[Crash Bandicoot memory card corruption](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
 
 [Crashes only on Wednesdays](https://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/)
 
@@ -95,7 +95,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Polish S doesn't appear on medium](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 
-[PS2 SDK doesn't zero the .bss segment](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html) 
+[PS2 SDK doesn't zero the .bss segment](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 
 [Python hashes files differently on different days](https://dpb.bitbucket.io/unexpected-behavior-from-the-python-3-built-in-hash-function.html)
 
