@@ -138,12 +138,15 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [The big handle gamble](https://x64dbg.com/blog/2017/11/04/the-big-handle-gamble.html)
 
+[We had a unit test once which only failed on Sundays](https://qntm.org/unit)
+
 ## Fictional stories
 
 [Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/)
 
 ## Contributors
 
+* Adriano Gil
 * Alexandros Tasos
 * Arthur Axel fREW Schmidt
 * André Luiz
