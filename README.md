@@ -140,6 +140,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [We had a unit test once which only failed on Sundays](https://qntm.org/unit)
 
+[Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
+
 ## Fictional stories
 
 [Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/)
